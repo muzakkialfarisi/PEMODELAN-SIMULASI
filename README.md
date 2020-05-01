@@ -1,4 +1,4 @@
-# PEMODELAN-SIMULASI
+# PEMODELAN dan SIMULASI
 Kumpulan proyek dan tugas semester 6, mata kuliah Pemodelan dan Simulasi Telkom Univeristy
 
 ## 1. Gerak Jatuh Bebas
