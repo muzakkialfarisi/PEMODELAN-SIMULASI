@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy import pi, cos
 
+# main function
 def buffon(L, D, N):
   hit = 0
   for loop in range(N):
@@ -20,7 +21,6 @@ def cont_pi(N):
   q.append(Q)
   return Pi_est
 
-
 L = 3
 D = 4
 x = np.arange(30,300,30)
@@ -31,7 +31,6 @@ for i in range(n):
 
 for i in range(n):
   r.append(q[i]-q[i-1])
-
 
 plt.plot(x,y,'.')
 plt.axhline(y=pi, color='r', linestyle='-')
