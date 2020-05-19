@@ -20,3 +20,5 @@ https://github.com/muzakkialfarisi/PEMODELAN-SIMULASI/tree/monte-carlo
 Pada Branch A Drunkard's Walk
 
 https://github.com/muzakkialfarisi/PEMODELAN-SIMULASI/tree/a-drunkard%E2%80%99s-walk
+
+Selamat mencoba!!
