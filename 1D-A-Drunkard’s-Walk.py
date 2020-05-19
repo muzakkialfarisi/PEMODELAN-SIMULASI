@@ -43,5 +43,6 @@ for i in range(N_steps-1):
       y.append(y[i]+range_step)
   ax.scatter(x[i],y[i], c='r')
   plt.pause(0.1)
-  
+
+#  show grafik
 plt.show()
